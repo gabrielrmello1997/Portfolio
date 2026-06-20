@@ -29,13 +29,6 @@ const projects = [
     href: "https://parris.com/",
     image: "/images/parris.png",
   },
-  {
-    title: "test Law Firm",
-    description:
-      "A conversion-focused legal landing page powered by Sanity, designed to drive consultations and qualified leads.",
-    href: "https://parris.com/",
-    image: "/images/parris.png",
-  },
 ];
 
 export default function Projects() {
