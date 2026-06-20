@@ -29,6 +29,13 @@ const projects = [
     href: "https://parris.com/",
     image: "/images/parris.png",
   },
+    {
+    title: "Portfolio Website",
+    description:
+      "Designed a portfolio website to showcase projects, skills and experiences. The page is scalable and mobile-friendly, and uses the latest technologies.",
+    href: "https://gabriel-mello-portfolio.vercel.app/",
+    image: "/images/portfolio.png",
+  },
 ];
 
 export default function Projects() {
